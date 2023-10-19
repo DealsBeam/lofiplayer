@@ -1,4 +1,4 @@
-import { RiPlayMiniFill, RiPauseMiniFill, HiPlay, } from 'react-icons/ri'
+import { RiPlayMiniFill, RiPauseMiniFill } from 'react-icons/ri'
 
 import usePlayer from '@/hooks/usePlayer'
 import Image from 'next/image'
@@ -11,11 +11,11 @@ const PlayButton = () => {
      onClick={playing ? pause : play}
      className='h-full w-full flex items-center justify-center hover:scale-105 active:scale-95 transition group'
     >
-      <div className='absolute text-white opacity-0 group-hover:opacity-100 z-10'>
+      <div className='absolute flex rounded-xl justify-center items-center backdrop-blur-lg w-full h-full text-white opacity-0 group-hover:opacity-100 transition-all duration-200 z-10'>
         {playing ? (
-          <RiPauseMiniFill fontSize={40} />
+          <RiPauseMiniFill fontSize={80} />
         ) : (
-          <RiPlayMiniFill fontSize={40} />
+          <RiPlayMiniFill fontSize={80} />
         )}
       </div>
       <div className="absolute">
