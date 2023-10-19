@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .editor a {
+    @apply text-white/50 hover:text-white transition-colors;
+  }
+}
