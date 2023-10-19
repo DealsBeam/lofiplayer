@@ -2,7 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   productionBrowserSourceMaps: true,
-  distDir: 'build',
   swcMinify: true,
   webpack(config) {
     config.module.rules.push({
