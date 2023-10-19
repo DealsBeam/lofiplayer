@@ -48,4 +48,4 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the [GNU General Public License v2.0](LICENSE.md).
+This project is licensed under the [GNU General Public License v2.0](LICENSE).
