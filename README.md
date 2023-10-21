@@ -17,12 +17,11 @@ Welcome to the Lofi Radio Player project, a 24/7 radio player designed with a fo
 
 We have exciting features in the pipeline to enhance your Lofi Radio experience:
 
-- **Multiple Stations**: Tune in to a variety of Lofi channels for your mood and preferences.
 - **Day-Night Design**: Enjoy the radio player in both light and dark modes, suited to your time of the day.
 - **Tauri Native Apps**: Native Windows and macOS apps for a seamless desktop experience.
-- **Volume Control**: Adjust the audio volume to your liking.
 - **Displaying Song and Artist Names**: See real-time information about the currently playing song and artist.
 - **Progressive Web App (PWA)**: Transform the Lofi Radio Player into a PWA for an enhanced mobile and offline experience.
+- **mediaSession API Integration**: Utilize the mediaSession API for enhanced control and display capabilities on supported devices.
 
 Stay tuned as we continue to improve and expand this project.
 
