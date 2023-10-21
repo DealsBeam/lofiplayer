@@ -25,7 +25,7 @@ const initPlayer = () => {
     title: 'Lofi hip hop radio- beats to relax/study to    ',
     artist: 'Lofi.',
     artwork: [
-      { src: '/banner.png', sizes: '512x512', type: 'image/png' }
+      { src: '/stations/banner.png', sizes: '512x512', type: 'image/png' }
     ]
   })
 
