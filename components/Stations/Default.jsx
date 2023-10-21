@@ -6,7 +6,7 @@ export default function Default() {
         <>
             <Background bgClass={'bg-lofi-day'} />
             <div className='absolute'>
-                <Player bannerPath={'banner'} source={'https://usa9.fastcast4u.com/proxy/jamz?mp=/1'}/>
+                <Player bannerPath={'default'} source={'https://usa9.fastcast4u.com/proxy/jamz?mp=/1'}/>
             </div>
         </>
     )
