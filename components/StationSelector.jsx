@@ -35,7 +35,7 @@ export default function StationSelector({ onStationChange }) {
           onClick={() => onStationChange('Default')}
         >
           <Image
-            src="/stations/banner.png"
+            src="/stations/default.png"
             width={100}
             height={100}
             alt="Station 1"
@@ -47,7 +47,7 @@ export default function StationSelector({ onStationChange }) {
           onClick={() => onStationChange('Synthwave')}
         >
           <Image
-            src="/stations/banner-2.png"
+            src="/stations/synthwave.png"
             width={100}
             height={100}
             alt="Station 2"
@@ -59,7 +59,7 @@ export default function StationSelector({ onStationChange }) {
           onClick={() => onStationChange('Serenity')}
         >
           <Image
-            src="/stations/banner-3.png"
+            src="/stations/serenity.png"
             width={100}
             height={100}
             alt="Station 3"
@@ -71,7 +71,7 @@ export default function StationSelector({ onStationChange }) {
           onClick={() => onStationChange('Dreamscape')}
         >
           <Image
-            src="/stations/banner-4.png"
+            src="/stations/dreamscape.png"
             width={100}
             height={100}
             alt="Station 4"
