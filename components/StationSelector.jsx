@@ -15,12 +15,12 @@ export default function StationSelector({ onStationChange }) {
   return (
     <>
       <div
-        className="absolute left-2 bg-white/30 h-32 w-3 rounded-xl hover:scale-125 transition"
+        className="absolute left-2 bg-white/30 ring-2 ring-inset ring-white/20 hover:ring-1 transition h-32 w-3 rounded-xl hover:scale-125"
         id="stem"
         onMouseEnter={handleMouseEnter}
       />
       <div
-        className="absolute left-6 flex flex-col justify-center items-center gap-4 bg-black/30 p-3 rounded-2xl hover:scale-105 transition shadow-xl drop-shadow-xl"
+        className="absolute left-6 flex flex-col justify-center items-center gap-4 ring-2 ring-inset ring-white/20 bg-black/30 p-3 rounded-2xl hover:scale-105 transition shadow-xl drop-shadow-xl"
         id="menu"
         style={{
           opacity: menuVisible ? 1 : 0,
