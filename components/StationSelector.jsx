@@ -15,7 +15,7 @@ export default function StationSelector({ onStationChange }) {
   return (
     <>
       <div
-        className="absolute left-2 bg-white/30 ring-2 ring-inset ring-white/20 hover:ring-1 transition h-32 w-3 rounded-xl hover:scale-125"
+        className="absolute left-2 bg-white/30 transition h-32 w-3 rounded-xl hover:scale-125"
         id="stem"
         onMouseEnter={handleMouseEnter}
       />
