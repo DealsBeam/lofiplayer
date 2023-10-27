@@ -26,6 +26,8 @@ We have exciting features in the pipeline to enhance your Lofi Radio experience:
 - **Hosting Audio Streams For The Project**: Hosting 24/7 Lofi audio streams to ensure the project's independence from external sources.
 - **Support for YouTube Streams**: Enjoy Lofi from YouTube streams for a wider selection of music.
 - **Support for Spotify Playlists**: Explore Lofi through curated Spotify playlists for an even broader music library.
+- **Self-Hosted Instances**: Host your own instances of the Lofi Radio web app on your NAS or server for full control and privacy.
+
 
 Stay tuned as we continue to improve and expand this project.
 
