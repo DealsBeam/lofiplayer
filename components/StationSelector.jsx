@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { useState, useEffect, useRef } from 'react';
+import ExploreMenu from '@/components/Explorer/ExploreMenu';
 
 export default function StationSelector({ onStationChange }) {
   const [menuVisible, setMenuVisible] = useState(false);
@@ -27,7 +28,7 @@ export default function StationSelector({ onStationChange }) {
   return (
     <>
       <div
-        className="absolute left-2 bg-white/30 transition h-32 w-3 rounded-xl hover:scale-125"
+        className="absolute z-20 left-2 bg-white/30 transition h-32 w-3 rounded-xl hover:scale-125"
         id="stem"
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
@@ -92,6 +93,7 @@ export default function StationSelector({ onStationChange }) {
             className='rounded-xl shadow-xl drop-shadow-xl'
           />
         </button>
+        <ExploreMenu onStationChange={onStationChange} hideMenu={handleMouseLeave}/>
       </div>
     </>
   );

@@ -1,7 +1,7 @@
 import Background from '@/components/Bg'
 import Player from '@/components/Player'
 
-export default function Default() {
+export default function Synthwave() {
     return(
         <>
             <Background bgClass={'bg-lofi-synthwave'} />
