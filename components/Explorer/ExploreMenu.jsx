@@ -87,10 +87,21 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
                 className='rounded-xl shadow-xl drop-shadow-xl'
               />
             </button>
+
+
+
+
+
+
+
+
+
+
+
             <button
               className='hover:scale-105 active:scale-95 transition'
               onClick={() => {
-                onStationChange('Ethernal');
+                onStationChange('Nocturne');
                 setOpen(false);
                 hideMenu();
                 }
@@ -107,7 +118,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
             <button
               className='hover:scale-105 active:scale-95 transition'
               onClick={() => {
-                onStationChange('Nocturne');
+                onStationChange('Ethernal');
                 setOpen(false);
                 hideMenu();
                 }
@@ -121,6 +132,23 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
                 className='rounded-xl shadow-xl drop-shadow-xl'
               />
             </button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             <button
               className='hover:scale-105 active:scale-95 transition'
               onClick={() => {

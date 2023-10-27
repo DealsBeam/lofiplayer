@@ -17,7 +17,7 @@ module.exports = {
         'lofi-ethernal': "url('/stations/ethernal-bg.png')",
         'lofi-nocturne': "url('/stations/nocturne-bg.png')",
         'lofi-radiant': "url('/stations/radiant-bg.png')",
-        'lofi-bliss': "url('/stations/bliss-bg.png')",
+        'lofi-bliss': "url('/stations/bliss-bg.png')"
       },
       keyframes: {
         overlayShow: {
