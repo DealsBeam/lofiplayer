@@ -44,6 +44,18 @@ In addition to these features, we are actively considering the following enhance
 
 Stay tuned as we work on these enhancements and continue to improve and expand this project.
 
+## Contributing
+
+We welcome contributions from the community to help make the Lofi Radio Player even better. Whether you're a developer, designer, or just a passionate Lofi music enthusiast, there are various ways to get involved:
+
+- **Bug Reports**: If you encounter any issues or bugs while using the Lofi Radio Player, please [open an issue](https://github.com/gergogyulai/lofiplayer/issues) on our GitHub repository. Be sure to provide detailed information about the problem, including steps to reproduce it.
+- **Feature Requests**: If you have ideas for new features or improvements, we'd love to hear from you. You can [open a feature request](https://github.com/gergogyulai/lofiplayer/issues) on our GitHub repository and describe the enhancement you have in mind.
+- **Code Contributions**: If you're a developer and would like to contribute code to the project, we encourage you to fork the repository, create a new branch, and submit a pull request. We'll review your changes and, if they align with the project's goals, merge them into the codebase.
+- **Documentation**: Help us improve our documentation by submitting updates or corrections to our README, contributing to our wiki, or providing helpful guides for users.
+
+Thank you for your support and contributions to the project!
+
+
 ## Getting Started
 
 To run this project locally, follow these steps:
