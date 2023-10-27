@@ -55,7 +55,6 @@ In addition to these features, we are actively considering the following enhance
 - **Favorites List**: Allow users to mark their favorite stations or tracks for quick access.
 - **Cross-Platform Sync**: Enable users to sync their preferences and saved stations across multiple devices and platforms.
 - **Customizable Themes**: Let users personalize the app's theme colors and styles to suit their preferences.
-- **Offline Downloads**: Provide the option to download Lofi tracks for offline listening.
 - **Alarm Clock**: Allow users to set a specific time for the Lofi Radio to start playing, making it a soothing way to wake up.
 - **Advanced Equalizer**: Offer an equalizer with various presets for fine-tuning the audio.
 - **History and Playlists**: Provide a history of previously played tracks and allow users to create custom playlists.
