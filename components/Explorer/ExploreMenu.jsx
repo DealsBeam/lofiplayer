@@ -6,9 +6,9 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
   const [open, setOpen] = React.useState(false);
 
   return (
-    <Dialog.Root open={open} onOpenChange={() => {setOpen(), hideMenu()}}>
+    <Dialog.Root open={open} onOpenChange={setOpen}>
       <Dialog.Trigger asChild>
-        <button className="hover:scale-105 active:scale-95 transition ring-2 ring-inset ring-white/20 bg-black/40 text-white p-2 hover:bg-black/30 rounded-xl w-[100px]">
+        <button className="hover:scale-105 active:scale-95 transition ring-2 ring-inset ring-white/20 bg-black/40 text-white p-2 hover:bg-black/30 rounded-xl w-[100px]" onClick={hideMenu}>
           More
         </button>
       </Dialog.Trigger>

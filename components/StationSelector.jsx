@@ -18,6 +18,14 @@ export default function StationSelector({ onStationChange }) {
     }, 500);
   };
 
+
+  const hideMenu = () => {
+    // Add a delay before hiding the menu
+    hideMenuTimeoutRef.current = setTimeout(() => {
+      setMenuVisible(false);
+    }, 100);
+  };
+
   // Clear the timeout when the component unmounts
   useEffect(() => {
     return () => {
@@ -93,7 +101,7 @@ export default function StationSelector({ onStationChange }) {
             className='rounded-xl shadow-xl drop-shadow-xl'
           />
         </button>
-        <ExploreMenu onStationChange={onStationChange} hideMenu={handleMouseLeave}/>
+        <ExploreMenu onStationChange={onStationChange} hideMenu={hideMenu}/>
       </div>
     </>
   );
