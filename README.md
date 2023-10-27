@@ -31,13 +31,13 @@ We have exciting features in the pipeline for the Lofi Radio Player project, aim
 - **Support for Spotify Playlists**: Explore Lofi through curated Spotify playlists for an even broader music library.
 - **Self-Hosted Instances**: Host your own instances of the Lofi Radio web app on your NAS or home-server for full control and privacy.
 - **Local File Support**: Play your own local audio files on self-hosted NAS versions to add a personal touch to your Lofi experience.
+- **Animated Background Videos**: Immerse yourself in the Lofi experience with built-in soothing and visually captivating background videos
 
 In addition to these features, we are actively considering the following enhancements for the future:
 
 - **Favorites List**: Allow users to mark their favorite stations or tracks for quick access.
 - **Cross-Platform Sync**: Enable users to sync their preferences and saved stations across multiple devices and platforms.
 - **Customizable Themes**: Let users personalize the app's theme colors and styles to suit their preferences.
-- **Alarm Clock**: Allow users to set a specific time for the Lofi Radio to start playing, making it a soothing way to wake up.
 - **Advanced Equalizer**: Offer an equalizer with various presets for fine-tuning the audio.
 - **History and Playlists**: Provide a history of previously played tracks and allow users to create custom playlists.
 
