@@ -12,7 +12,8 @@ Welcome to the Lofi Radio Player project, a 24/7 radio player designed with a fo
 - Minimalistic Design
 - Next.js for a smooth, client-side experience
 - Tailwind CSS for a responsive and stylish UI
-- Multi-Station Design (Default, Synthwave, "Dreamscape" and "Serenity")
+- Multi-Station Design (Default, Synthwave, "Dreamscape" and "Serenity" and more)
+- Station Explorer
 
 ## Work in Progress
 
