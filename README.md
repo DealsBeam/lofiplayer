@@ -24,6 +24,7 @@ We have exciting features in the pipeline to enhance your Lofi Radio experience:
 - **mediaSession API Integration**: Utilize the mediaSession API for enhanced control and display capabilities on supported devices.
 - **Add Your Own Stations and Streams**: Customize your Lofi Radio experience by adding your preferred stations and streams.
 - **Hosting Audio Streams For The Project**: Hosting 24/7 Lofi audio streams to ensure the project's independence from external sources.
+- **Support for YouTube Streams**: Enjoy Lofi from YouTube streams for a wider selection of music.
 
 Stay tuned as we continue to improve and expand this project.
 
