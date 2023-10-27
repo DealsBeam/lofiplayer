@@ -46,7 +46,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Synthwave.png"
+                src="/stations/synthwave.png"
                 width={100}
                 height={100}
                 alt="Station 1"
@@ -63,7 +63,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Dreamscape.png"
+                src="/stations/dreamscape.png"
                 width={100}
                 height={100}
                 alt="Station 1"
@@ -80,7 +80,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Serenity.png"
+                src="/stations/serenity.png"
                 width={100}
                 height={100}
                 alt="Station 1"
@@ -97,7 +97,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Ethernal.png"
+                src="/stations/ethernal.png"
                 width={100}
                 height={100}
                 alt="Station 1"
@@ -114,7 +114,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Nocturne.png"
+                src="/stations/nocturne.png"
                 width={100}
                 height={100}
                 alt="Station 1"
@@ -131,7 +131,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Bliss.png"
+                src="/stations/bliss.png"
                 width={100}
                 height={100}
                 alt="Station 1"
@@ -148,7 +148,7 @@ const ExploreMenu = ({ onStationChange, hideMenu }) => {
               }
             >
               <Image
-                src="/stations/Radiant.png"
+                src="/stations/radiant.png"
                 width={100}
                 height={100}
                 alt="Station 1"
