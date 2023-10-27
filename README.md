@@ -18,10 +18,7 @@ Welcome to the Lofi Radio Player project, a 24/7 radio player designed with a fo
 
 We have exciting features in the pipeline for the Lofi Radio Player project, aiming to provide you with an even more delightful experience
 
-- **Multiple Stations**: Tune in to a variety of Lofi channels for your mood and preferences.
-- **Day-Night Design**: Enjoy the radio player in both light and dark modes, suited to your time of the day.
 - **Tauri Native Apps**: Native Windows and macOS apps for a seamless desktop experience.
-- **Volume Control**: Adjust the audio volume to your liking.
 - **Displaying Song and Artist Names**: See real-time information about the currently playing song and artist.
 - **Progressive Web App (PWA)**: Transform the Lofi Radio Player into a PWA for an enhanced mobile and offline experience.
 - **mediaSession API Integration**: Utilize the mediaSession API for enhanced control and display capabilities on supported devices.
@@ -32,9 +29,6 @@ We have exciting features in the pipeline for the Lofi Radio Player project, aim
 - **Self-Hosted Instances**: Host your own instances of the Lofi Radio web app on your NAS or home-server for full control and privacy.
 - **Local File Support**: Play your own local audio files on self-hosted NAS versions to add a personal touch to your Lofi experience.
 - **Animated Background Videos**: Immerse yourself in the Lofi experience with built-in soothing and visually captivating background videos
-
-In addition to these features, we are actively considering the following enhancements for the future:
-
 - **Favorites List**: Allow users to mark their favorite stations or tracks for quick access.
 - **Cross-Platform Sync**: Enable users to sync their preferences and saved stations across multiple devices and platforms.
 - **Customizable Themes**: Let users personalize the app's theme colors and styles to suit their preferences.
@@ -42,6 +36,13 @@ In addition to these features, we are actively considering the following enhance
 - **History and Playlists**: Provide a history of previously played tracks and allow users to create custom playlists.
 
 Stay tuned as we work on these enhancements and continue to improve and expand this project.
+
+### Added new features
+As of 27.10.2023(v0.1.11)
+   - **Day-Night Design**: Enjoy the radio player in both light and dark modes, suited to your time of the day
+   - **Multiple Stations**: Tune in to a variety of Lofi channels for your mood and preferences
+   - **Volume Control**: Adjust the audio volume to your liking
+   - **Station Explorer**: Discover a wide array of Lofi stations using the built-in explorer
 
 ## Contributing
 
