@@ -31,7 +31,6 @@ We have exciting features in the pipeline for the Lofi Radio Player project, aim
 - **Support for Spotify Playlists**: Explore Lofi through curated Spotify playlists for an even broader music library.
 - **Self-Hosted Instances**: Host your own instances of the Lofi Radio web app for full control and privacy.
 - **Local File Support**: Play your own local audio files on self-hosted NAS versions to add a personal touch to your Lofi experience.
-- **1 Hour of Offline Playback**: Enjoy an hour of offline playback to unwind even when you're not connected.
 
 In addition to these features, we are actively considering the following enhancements for the future:
 
